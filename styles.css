@@ -62,3 +62,6 @@ background-color: darkkhaki;
     visibility: visible;
     background-color: greenyellow;
 }
+.invisible-element{
+    visibility: hidden;
+}
