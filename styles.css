@@ -4,8 +4,8 @@
     background-color: blanchedalmond;
 }
 .responsive-box{
-    height: 50%;
-    width: 50%;
+    height: 50vh;
+    width: 50vw;
     background-color: aquamarine;
 }
 .padded-text{
@@ -32,4 +32,13 @@
     border-width: 3px;
     border-color: red;
     border-radius: 15px;
+}
+.margin-text{
+    margin: 30px;
+}
+.custom-margin{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
