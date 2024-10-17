@@ -64,4 +64,9 @@ background-color: darkkhaki;
 }
 .invisible-element{
     visibility: hidden;
+    background-color: lightpink;
+}
+.transparent-box{
+    background-color: blue;
+    opacity: 0.5;
 }
