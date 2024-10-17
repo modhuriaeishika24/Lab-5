@@ -46,3 +46,7 @@
     display:inline;
 background-color: coral;
 }
+.block-element{
+    display: block;
+background-color: darkkhaki;
+}
