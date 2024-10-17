@@ -27,3 +27,9 @@
     border-width: 2px;
     border-color: black;
 }
+.rounded-border{
+    border-style: dotted;
+    border-width: 3px;
+    border-color: red;
+    border-radius: 15px;
+}
