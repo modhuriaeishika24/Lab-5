@@ -50,3 +50,7 @@ background-color: coral;
     display: block;
 background-color: darkkhaki;
 }
+.inline-block-element{
+    display: inline-block;
+    background-color: lightblue;
+}
