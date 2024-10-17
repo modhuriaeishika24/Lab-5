@@ -58,3 +58,7 @@ background-color: darkkhaki;
     display: none;
     background-color: darksalmon;
 }
+.visible-element{
+    visibility: visible;
+    background-color: greenyellow;
+}
