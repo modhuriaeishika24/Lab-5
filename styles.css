@@ -54,3 +54,7 @@ background-color: darkkhaki;
     display: inline-block;
     background-color: lightblue;
 }
+.hidden-element{
+    display: none;
+    background-color: darksalmon;
+}
