@@ -53,6 +53,7 @@ background-color: darkkhaki;
 .inline-block-element{
     display: inline-block;
     background-color: lightblue;
+    margin-left: 5px;
 }
 .hidden-element{
     display: none;
